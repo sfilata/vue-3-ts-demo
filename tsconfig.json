@@ -17,6 +17,36 @@
     "paths": {
       "@/*": [
         "src/*"
+      ],
+      "@img/*": [
+        "src/assets/img/*"
+      ],
+      "@style/*": [
+        "src/assets/style/*"
+      ],
+      "@js/*": [
+        "src/assets/js/*"
+      ],
+      "@ts/*": [
+        "src/assets/ts/*"
+      ],
+      "@fonts/*": [
+        "src/assets/fonts/*"
+      ],
+      "@css/*": [
+        "src/assets/css/*"
+      ],
+      "@libs/*": [
+        "src/libs/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@views/*": [
+        "src/views/*"
+      ],
+      "@plugins/*": [
+        "src/plugins/*"
       ]
     },
     "lib": [
